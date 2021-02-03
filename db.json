@@ -2,150 +2,150 @@
   "product": [
     {
       "id": 1,
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera", "canon"]
+      "name": "Minolta XD7",
+      "price": 2500000,
+      "imageUrl": "https://images.unsplash.com/photo-1542144761-f3752e7e24c4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
     },
     {
-      "id": "2",
+      "id": 2,
+      "name": "Minolta SRT202",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1516314949969-1e7b364361ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
+    },
+    {
+      "id": 3,
+      "name": "Minolta X-300",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1597761794893-52b2108fef69?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
+    },
+    {
+      "id": 4,
+      "name": "Canon AE1",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1567095627798-6586061366f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "canon", "film"]
+    },
+    {
+      "id": 5,
+      "name": "Nikon F3",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1583772070602-90850b28fe06?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "nikon", "film"]
+    },
+    {
+      "id": 6,
+      "name": "Pentax K1000",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1490401476932-bbc58979db84?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "pentax", "film"]
+    },
+    {
+      "id": 7,
+      "name": "Fujifilm XT-10",
+      "price": 6990000,
+      "imageUrl": "https://images.unsplash.com/photo-1517267710930-f0fe5e6f0c3c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "fujifilm", "digital"]
+    },
+    {
+      "id": 8,
+      "name": "Fujifilm XT-10",
+      "price": 6990000,
+      "imageUrl": "https://images.unsplash.com/photo-1517267710930-f0fe5e6f0c3c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "fujifilm", "digital"]
+    },
+    {
+      "id": 9,
+      "name": "Fujifilm XT-10",
+      "price": 6990000,
+      "imageUrl": "https://images.unsplash.com/photo-1517267710930-f0fe5e6f0c3c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "fujifilm", "digital"]
+    },
+    {
+      "id": 10,
+      "name": "Fujifilm XT-10",
+      "price": 6990000,
+      "imageUrl": "https://images.unsplash.com/photo-1517267710930-f0fe5e6f0c3c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "fujifilm", "digital"]
+    },
+    {
+      "id": 11,
+      "name": "Fujifilm XT-10",
+      "price": 6990000,
+      "imageUrl": "https://images.unsplash.com/photo-1517267710930-f0fe5e6f0c3c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "fujifilm", "digital"]
+    },
+    {
+      "id": 12,
+      "name": "Nikon F3",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1583772070602-90850b28fe06?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "nikon", "film"]
+    },
+    {
+      "id": 13,
       "name": "Canon 750D",
-      "price": 15.45,
+      "price": 3000000,
       "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       "categories": ["camera"]
     },
     {
-      "id": "3",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 14,
+      "name": "Canon AE1",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1567095627798-6586061366f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "canon", "film"]
     },
     {
-      "id": "4",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 15,
+      "name": "Minolta SRT202",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1516314949969-1e7b364361ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
     },
     {
-      "id": "5",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 16,
+      "name": "Minolta XD7",
+      "price": 2500000,
+      "imageUrl": "https://images.unsplash.com/photo-1542144761-f3752e7e24c4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
     },
     {
-      "id": "6",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 17,
+      "name": "Nikon F3",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1583772070602-90850b28fe06?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "nikon", "film"]
     },
     {
-      "id": "7",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 18,
+      "name": "Canon AE1",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1567095627798-6586061366f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "canon", "film"]
     },
     {
-      "id": "8",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 19,
+      "name": "Minolta SRT202",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1516314949969-1e7b364361ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
     },
     {
-      "id": "9",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 20,
+      "name": "Minolta SRT202",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1516314949969-1e7b364361ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "minolta", "film"]
     },
     {
-      "id": "10",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "11",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "12",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "13",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "14",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "15",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "16",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "17",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "18",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "19",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "20",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
-    },
-    {
-      "id": "21",
-      "name": "Canon 750D",
-      "price": 15.45,
-      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-      "categories": ["camera"]
+      "id": 21,
+      "name": "Canon AE1",
+      "price": 3000000,
+      "imageUrl": "https://images.unsplash.com/photo-1567095627798-6586061366f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80",
+      "categories": ["camera", "canon", "film"]
     }
   ],
   "images": [
