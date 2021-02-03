@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Tổng hợp modern ES6 code snippets giải quyết vấn đề thường gặp trong JS",
+      "description": "Tôi đã chọn ra số đoạn mã hữu ích nhất từ 30 seconds of code. Tôi đã cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án của mình.",
+      "id": 2
+    },
+    {
+      "title": "UI Design",
+      "description": "Bài viết này là những ghi chú của mình trong khi nghiên cứu về UI/UX. ",
+      "id": 3
+    },
+    {
+      "title": "SEO Checklist",
+      "description": "Thực ra những bài hướng dẫn SEO ở trên mạng cũng rất là nhiều nhưng thường thì là rất cũ rồi hoặc là nó không còn phù hợp nữa vì google thỉnh thoảng lại thay đổi thuật toán. Chính vì thế mà bài này mình hướng dẫn những kỹ thuật.",
+      "id": 4
+    }
+  ]
+}
