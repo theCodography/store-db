@@ -1,19 +1,54 @@
 {
-  "posts": [
+  "product": [
     {
-      "title": "Tổng hợp modern ES6 code snippets giải quyết vấn đề thường gặp trong JS",
-      "description": "Tôi đã chọn ra số đoạn mã hữu ích nhất từ 30 seconds of code. Tôi đã cố gắng sắp xếp chúng dựa trên việc sử dụng thực tế, giải quyết được những vấn đề phổ biến mà bạn có thể gặp phải trong dự án của mình.",
-      "id": 2
+      "id": 1,
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera", "canon"]
     },
     {
-      "title": "UI Design",
-      "description": "Bài viết này là những ghi chú của mình trong khi nghiên cứu về UI/UX. ",
-      "id": 3
+      "id": "2",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
     },
     {
-      "title": "SEO Checklist",
-      "description": "Thực ra những bài hướng dẫn SEO ở trên mạng cũng rất là nhiều nhưng thường thì là rất cũ rồi hoặc là nó không còn phù hợp nữa vì google thỉnh thoảng lại thay đổi thuật toán. Chính vì thế mà bài này mình hướng dẫn những kỹ thuật.",
-      "id": 4
+      "id": "3",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "4",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "5",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "6",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "7",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
     }
   ]
+
 }
