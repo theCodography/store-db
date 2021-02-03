@@ -48,6 +48,104 @@
       "price": 15.45,
       "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       "categories": ["camera"]
+    },
+    {
+      "id": "8",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "9",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "10",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "11",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "12",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "13",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "14",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "15",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "16",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "17",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "18",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "19",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "20",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
+    },
+    {
+      "id": "21",
+      "name": "Canon 750D",
+      "price": 15.45,
+      "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+      "categories": ["camera"]
     }
   ]
 
