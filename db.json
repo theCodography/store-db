@@ -147,6 +147,29 @@
       "imageUrl": "https://images.unsplash.com/photo-1595677117858-01579e0d4f1a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       "categories": ["camera"]
     }
+  ],
+  "images": [
+    {
+      "id":1,
+      "imageUrl": "https://images.unsplash.com/photo-1595793550800-5bdd9d23b2fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "id":2,
+      "imageUrl": "https://images.unsplash.com/photo-1496950866446-3253e1470e8e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "id":3,
+      "imageUrl": "https://images.unsplash.com/photo-1529385394472-48580a2dcf47?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "id":4,
+      "imageUrl": "https://images.unsplash.com/photo-1541966712669-03c3a01172bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "id":5,
+      "imageUrl": "https://images.unsplash.com/photo-1609577681833-3a8feec10f90?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1920&q=80"
+    }
+    
   ]
 
 }
